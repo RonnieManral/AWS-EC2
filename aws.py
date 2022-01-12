@@ -2,8 +2,8 @@ import boto3
 from datetime import datetime, timedelta
 from operator import itemgetter
 
-AccessKey = "AKIATBKX7DBGYUKS4VPR"
-SecretKey = "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"
+AccessKey = "AKIATBKX7DBGYUKS4PR"
+SecretKey = "DSoozXlrXxxGAmePhHztum7G5uaMTjX/q4qH5cd"
 
 
 now = datetime.utcnow()  # Now time in UTC format
